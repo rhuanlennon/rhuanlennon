@@ -1,5 +1,5 @@
 ### Olá, eu Sou Rhuan 👋 
-* Sou estudante de Ciência na UERJ :computer: :student:	
+* Sou estudante de Ciência da Computação na UERJ :computer: :student:	
 * Atualmente sou estágiario de desenvolvimento na Globo.com :desktop_computer:	
 * Apaixonado por tecnologia :computer: :blue_book:
  
