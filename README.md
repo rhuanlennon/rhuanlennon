@@ -1,6 +1,6 @@
 ### Hello,I'm Rhuan 👋 
 * I'm student Computer science at UERJ :computer: :student:	
-* I'm currently software development intern at Globo.com :desktop_computer:	
+* I'm currently software development at Globo.com :desktop_computer:	
 * I love technology :computer: :blue_book:
  
  ## 🧰 Stack:
